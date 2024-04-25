@@ -1,7 +1,7 @@
-import { FaCalendarAlt, FaMoon } from "react-icons/fa";
+import { FaCalendarAlt } from "react-icons/fa";
 import { FaClock } from "react-icons/fa6";
 import { IoNotifications } from "react-icons/io5";
-import { IoMdSunny } from "react-icons/io";
+
 
 import { useEffect, useState } from "react";
 
